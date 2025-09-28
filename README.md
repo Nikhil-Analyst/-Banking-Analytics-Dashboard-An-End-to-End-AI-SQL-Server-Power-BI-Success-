@@ -1,43 +1,84 @@
-# Banking-Analytics-Dashboard-An-End-to-End-AI-SQL-Server-Power-BI-Success-
+# 🏦 Banking Analytics Dashboard
 
+A comprehensive data analytics project built from scratch, showcasing the integration of SQL Server, Power BI, and AI-assisted development. This project demonstrates how robust data infrastructure + modern BI tools + AI guidance can create an enterprise-grade banking dashboard.
+--- 
 
-I’m excited to unveil my latest data analytics project—a comprehensive banking dashboard created from scratch. What makes this project unique is that every major workflow was enhanced by Perplexity AI and powered by a robust SQL Server and Power BI integration.
+### 🔎 Project Pipeline
 
-🔎 Project Pipeline at a Glance:
+1. Data Modelling & Storage
 
-Data Modelling & Storage:
-All raw banking data (customers, accounts, transactions) was stored and organized within Microsoft SQL Server. Using SQL Server offered advantages in scalability, relational integrity, and fast query performance—laying the groundwork for a modern data-driven solution.
+Raw banking data (customers, accounts, transactions) stored in Microsoft SQL Server.
 
-Data Integration & Transfer:
-Using secure server connections, I imported the cleansed and modeled data directly into Power BI. The “Get Data” feature in Power BI made it simple to plug into SQL Server, select my tables/views, and maintain live or scheduled refreshes so the dashboard always reflects the most current database state.
+Ensured scalability, relational integrity, and fast query performance.
 
-Advanced Analytics with AI:
-Every DAX measure, KPI, and visual concept was envisioned, refined, and problem-solved in partnership with Perplexity AI. The AI guided best practices for data transformation, suggested optimal chart types for different use cases, and even generated advanced DAX expressions for business logic (for example, cohort analysis, time trends, and account segmentation).
+Structured as the foundation for a single source of truth.
 
-Visual Storytelling in Power BI:
+2. Data Integration & Transfer
 
-Page 1: Customer demographics, account balances, geographic splits, and product-type representation.
+Connected SQL Server to Power BI using Get Data.
 
-Page 2: Transaction KPIs, monthly financial flows, customer value breakdowns, and risk/event flags.
+Imported cleansed & modeled tables/views.
 
-💡 Why is this important?
+Enabled live connections & scheduled refreshes for real-time analytics.
 
-SQL Server ensured robust, centralized data storage and made it easy to maintain and share a “single source of truth.”
+3. Advanced Analytics with AI (Perplexity AI)
 
-Perplexity AI sped up every phase: data modeling, code generation, analytics planning, and dashboard UX—acting like an expert partner in decision-making.
+AI-assisted in DAX generation, KPI design, and chart selection.
 
-This project proves that AI + robust server infrastructure + modern BI tools can empower anyone to build enterprise-grade solutions quickly and efficiently.
+Suggested cohort analysis, time trend KPIs, and account segmentation.
 
-🌐 Workflow Recap:
+Refined data transformation and dashboard UX iteratively.
 
-Data generation and cleansing in SQL Server.
+---
 
-Data imported to Power BI using secure server connection.
+### 📊 Dashboard Overview
 
-All KPIs, charts, and DAX—suggested and optimized by Perplexity AI.
+Page 1: Customer Insights
 
-Dashboard iteratively refined with real-time support from AI.
+Demographics & account balances
 
-🔗 To everyone interested in how AI, SQL Server, and Power BI interact to streamline analytics and elevate business outcomes—this project’s for you! Check out my dashboard and, if you want a behind-the-scenes walkthrough or to discuss how this stack can help your team, let’s connect!
+Geographic distribution
 
-**#PowerBI #SQLServer #ArtificialIntelligence #PerplexityAI #DataAnalytics #BankingAnalytics #DAX #DataVisualization #DigitalTransformation #LinkedInShowse
+Product-type representation
+
+Page 2: Financial KPIs
+
+Monthly transaction flows
+
+Customer value breakdown
+
+Risk & event flags
+
+---
+
+### 💡 Key Highlights
+
+SQL Server → Centralised, scalable data storage
+
+Power BI → Visual storytelling & interactive reporting
+
+Perplexity AI → Enhanced every phase: modeling, coding, analytics planning, dashboard design
+
+---
+
+### 🌐 Workflow Recap
+
+Data generated & cleansed in SQL Server
+
+Imported to Power BI using secure server connections
+
+KPIs, charts, and DAX measures are AI-optimised
+
+Dashboard refined with real-time AI feedback
+
+---
+
+🛠️ Tech Stack
+
+SQL Server
+
+Power BI
+
+DAX
+
+AI-assisted analytics (Perplexity AI)
