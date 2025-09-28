@@ -53,6 +53,13 @@ Customer value breakdown
 Risk & event flags
 
 ---
+<img width="650" height="414" alt="Screenshot 2025-09-28 at 5 30 02 PM" src="https://github.com/user-attachments/assets/98af82ad-818a-45a9-a443-9c3c8ae899c0" />
+
+<img width="650" height="414" alt="Screenshot 2025-09-28 at 5 30 19 PM" src="https://github.com/user-attachments/assets/6159e088-22a0-4e91-814f-4b5ddaa2781c" />
+
+
+
+
 
 ### 💡 Key Highlights
 
