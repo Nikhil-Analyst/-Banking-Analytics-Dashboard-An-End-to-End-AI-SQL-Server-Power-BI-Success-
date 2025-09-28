@@ -1,4 +1,7 @@
 # 🏦 Banking Analytics Dashboard
+---
+Dashboard link: https://app.powerbi.com/groups/6d3dc93a-cd0e-4655-b070-6dd6073d299f/reports/e5eee138-6c49-4528-8eda-ab807907f8fb/b6e3988bec222b11d50e?experience=power-bi
+---
 
 A comprehensive data analytics project built from scratch, showcasing the integration of SQL Server, Power BI, and AI-assisted development. This project demonstrates how robust data infrastructure + modern BI tools + AI guidance can create an enterprise-grade banking dashboard.
 --- 
